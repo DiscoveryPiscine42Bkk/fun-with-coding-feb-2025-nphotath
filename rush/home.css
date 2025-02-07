@@ -1,0 +1,29 @@
+body {
+    background-image: url('https://i.pinimg.com/originals/36/43/2e/36432efea95d385a3495f56b434daa96.gif');
+    text-align: center;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
+
+h1 {
+    color: white;
+    font-size: 3em;
+}
+h2 {
+    color: white;
+    font-size: 2em;
+}
+
+.player {
+    display: flex;
+    justify-content: center;
+    gap: 35px;
+    margin: 40px 0;
+}
+.player img {
+    width: 300px;
+    height: 450px;
+    border-radius: 5%;
+}
+
